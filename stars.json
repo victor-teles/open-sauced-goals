@@ -1,20 +1,20 @@
 [
   {
     "full_name": "lightdash/lightdash",
-    "stargazers_count": 1595,
-    "open_issues_count": 347,
-    "forks_count": 111
+    "stargazers_count": 1648,
+    "open_issues_count": 346,
+    "forks_count": 113
   },
   {
     "full_name": "expo/router",
-    "stargazers_count": 367,
-    "open_issues_count": 10,
-    "forks_count": 9
+    "stargazers_count": 392,
+    "open_issues_count": 7,
+    "forks_count": 12
   },
   {
     "full_name": "electricitymaps/electricitymaps-contrib",
-    "stargazers_count": 2539,
-    "open_issues_count": 180,
+    "stargazers_count": 2548,
+    "open_issues_count": 174,
     "forks_count": 728
   },
   {
@@ -25,56 +25,56 @@
   },
   {
     "full_name": "rayepps/radash",
-    "stargazers_count": 1677,
-    "open_issues_count": 40,
+    "stargazers_count": 1726,
+    "open_issues_count": 27,
     "forks_count": 54
   },
   {
     "full_name": "alibaba/formily",
-    "stargazers_count": 8593,
-    "open_issues_count": 11,
-    "forks_count": 1202
+    "stargazers_count": 8614,
+    "open_issues_count": 10,
+    "forks_count": 1208
   },
   {
     "full_name": "TanStack/table",
-    "stargazers_count": 19466,
-    "open_issues_count": 68,
-    "forks_count": 2605
+    "stargazers_count": 19490,
+    "open_issues_count": 69,
+    "forks_count": 2609
   },
   {
     "full_name": "Sairyss/domain-driven-hexagon",
-    "stargazers_count": 7516,
+    "stargazers_count": 7533,
     "open_issues_count": 1,
-    "forks_count": 683
+    "forks_count": 686
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 30087,
-    "open_issues_count": 420,
-    "forks_count": 4244
+    "stargazers_count": 30115,
+    "open_issues_count": 415,
+    "forks_count": 4254
   },
   {
     "full_name": "TheAlgorithms/Dart",
-    "stargazers_count": 1050,
+    "stargazers_count": 1062,
     "open_issues_count": 22,
-    "forks_count": 283
+    "forks_count": 286
   },
   {
     "full_name": "bytebase/bytebase",
-    "stargazers_count": 4016,
-    "open_issues_count": 27,
-    "forks_count": 266
+    "stargazers_count": 4045,
+    "open_issues_count": 23,
+    "forks_count": 273
   },
   {
     "full_name": "Shopify/react-native-skia",
-    "stargazers_count": 4294,
-    "open_issues_count": 50,
-    "forks_count": 217
+    "stargazers_count": 4322,
+    "open_issues_count": 52,
+    "forks_count": 222
   },
   {
     "full_name": "rebuy-de/aws-nuke",
-    "stargazers_count": 3834,
-    "open_issues_count": 149,
+    "stargazers_count": 3845,
+    "open_issues_count": 147,
     "forks_count": 497
   },
   {
@@ -85,98 +85,98 @@
   },
   {
     "full_name": "grafana/k6",
-    "stargazers_count": 18141,
-    "open_issues_count": 355,
-    "forks_count": 948
+    "stargazers_count": 18182,
+    "open_issues_count": 360,
+    "forks_count": 950
   },
   {
     "full_name": "aidenybai/million",
-    "stargazers_count": 5295,
+    "stargazers_count": 5299,
     "open_issues_count": 9,
-    "forks_count": 146
+    "forks_count": 147
   },
   {
     "full_name": "redpanda-data/console",
-    "stargazers_count": 2763,
-    "open_issues_count": 103,
+    "stargazers_count": 2771,
+    "open_issues_count": 102,
     "forks_count": 242
   },
   {
     "full_name": "runatlantis/atlantis",
-    "stargazers_count": 5339,
-    "open_issues_count": 421,
-    "forks_count": 763
+    "stargazers_count": 5357,
+    "open_issues_count": 413,
+    "forks_count": 766
   },
   {
     "full_name": "microsoft/RulesEngine",
-    "stargazers_count": 1997,
-    "open_issues_count": 12,
-    "forks_count": 364
+    "stargazers_count": 2005,
+    "open_issues_count": 13,
+    "forks_count": 366
   },
   {
     "full_name": "DapperLib/Dapper",
-    "stargazers_count": 15408,
-    "open_issues_count": 382,
+    "stargazers_count": 15415,
+    "open_issues_count": 383,
     "forks_count": 3572
   },
   {
     "full_name": "rathena/rathena",
-    "stargazers_count": 2149,
-    "open_issues_count": 422,
+    "stargazers_count": 2151,
+    "open_issues_count": 410,
     "forks_count": 1892
   },
   {
     "full_name": "thangchung/awesome-dotnet-core",
-    "stargazers_count": 16921,
-    "open_issues_count": 144,
-    "forks_count": 2615
+    "stargazers_count": 16943,
+    "open_issues_count": 143,
+    "forks_count": 2618
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 28080,
-    "open_issues_count": 210,
-    "forks_count": 1169
+    "stargazers_count": 28135,
+    "open_issues_count": 205,
+    "forks_count": 1171
   },
   {
     "full_name": "pixel-point/kube-forwarder",
-    "stargazers_count": 964,
+    "stargazers_count": 966,
     "open_issues_count": 66,
     "forks_count": 148
   },
   {
     "full_name": "honojs/hono",
-    "stargazers_count": 2339,
-    "open_issues_count": 24,
+    "stargazers_count": 2354,
+    "open_issues_count": 22,
     "forks_count": 74
   },
   {
     "full_name": "floating-ui/floating-ui",
-    "stargazers_count": 23110,
-    "open_issues_count": 26,
-    "forks_count": 1403
+    "stargazers_count": 23140,
+    "open_issues_count": 27,
+    "forks_count": 1402
   },
   {
     "full_name": "fingerprintjs/fingerprintjs",
-    "stargazers_count": 17650,
-    "open_issues_count": 19,
+    "stargazers_count": 17666,
+    "open_issues_count": 20,
     "forks_count": 2011
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 30229,
-    "open_issues_count": 28,
-    "forks_count": 1832
+    "stargazers_count": 30295,
+    "open_issues_count": 25,
+    "forks_count": 1835
   },
   {
     "full_name": "tauri-apps/tauri",
-    "stargazers_count": 52058,
-    "open_issues_count": 240,
-    "forks_count": 1324
+    "stargazers_count": 52245,
+    "open_issues_count": 244,
+    "forks_count": 1329
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 34790,
-    "open_issues_count": 381,
-    "forks_count": 811
+    "stargazers_count": 34938,
+    "open_issues_count": 389,
+    "forks_count": 816
   }
 ]
