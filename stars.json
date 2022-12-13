@@ -1,135 +1,165 @@
 [
   {
+    "full_name": "callstack/repack",
+    "stargazers_count": 933,
+    "open_issues_count": 55,
+    "forks_count": 70
+  },
+  {
+    "full_name": "frappe/erpnext",
+    "stargazers_count": 12354,
+    "open_issues_count": 1120,
+    "forks_count": 5006
+  },
+  {
+    "full_name": "naptha/tesseract.js",
+    "stargazers_count": 28997,
+    "open_issues_count": 38,
+    "forks_count": 1950
+  },
+  {
+    "full_name": "ultralytics/yolov5",
+    "stargazers_count": 33662,
+    "open_issues_count": 336,
+    "forks_count": 12176
+  },
+  {
+    "full_name": "usememos/memos",
+    "stargazers_count": 4368,
+    "open_issues_count": 37,
+    "forks_count": 243
+  },
+  {
     "full_name": "algorithm-visualizer/algorithm-visualizer",
-    "stargazers_count": 41709,
-    "open_issues_count": 47,
-    "forks_count": 6689
+    "stargazers_count": 41776,
+    "open_issues_count": 48,
+    "forks_count": 6699
   },
   {
     "full_name": "kettanaito/naming-cheatsheet",
-    "stargazers_count": 10979,
+    "stargazers_count": 10988,
     "open_issues_count": 21,
     "forks_count": 593
   },
   {
     "full_name": "RobotsAndPencils/xcodes",
-    "stargazers_count": 2278,
+    "stargazers_count": 2288,
     "open_issues_count": 47,
-    "forks_count": 71
+    "forks_count": 72
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 7389,
-    "open_issues_count": 113,
-    "forks_count": 280
+    "stargazers_count": 7426,
+    "open_issues_count": 114,
+    "forks_count": 283
   },
   {
     "full_name": "RustScan/RustScan",
-    "stargazers_count": 8573,
-    "open_issues_count": 111,
+    "stargazers_count": 8600,
+    "open_issues_count": 112,
     "forks_count": 645
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 34036,
-    "open_issues_count": 29,
-    "forks_count": 2932
+    "stargazers_count": 34136,
+    "open_issues_count": 28,
+    "forks_count": 2937
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 36697,
-    "open_issues_count": 387,
-    "forks_count": 5648
+    "stargazers_count": 37079,
+    "open_issues_count": 392,
+    "forks_count": 5711
   },
   {
     "full_name": "lucide-icons/lucide",
-    "stargazers_count": 2942,
+    "stargazers_count": 2958,
     "open_issues_count": 52,
-    "forks_count": 156
+    "forks_count": 158
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 5051,
-    "open_issues_count": 45,
-    "forks_count": 100
+    "stargazers_count": 5074,
+    "open_issues_count": 49,
+    "forks_count": 102
   },
   {
     "full_name": "lightdash/lightdash",
-    "stargazers_count": 1881,
-    "open_issues_count": 437,
-    "forks_count": 128
+    "stargazers_count": 1884,
+    "open_issues_count": 444,
+    "forks_count": 131
   },
   {
     "full_name": "expo/router",
-    "stargazers_count": 545,
-    "open_issues_count": 26,
+    "stargazers_count": 557,
+    "open_issues_count": 27,
     "forks_count": 24
   },
   {
     "full_name": "electricitymaps/electricitymaps-contrib",
-    "stargazers_count": 2636,
-    "open_issues_count": 181,
-    "forks_count": 752
+    "stargazers_count": 2643,
+    "open_issues_count": 185,
+    "forks_count": 756
   },
   {
     "full_name": "TanvirArjel/EFCore.GenericRepository",
-    "stargazers_count": 332,
+    "stargazers_count": 336,
     "open_issues_count": 2,
-    "forks_count": 52
+    "forks_count": 53
   },
   {
     "full_name": "rayepps/radash",
-    "stargazers_count": 1850,
-    "open_issues_count": 26,
+    "stargazers_count": 1857,
+    "open_issues_count": 15,
     "forks_count": 61
   },
   {
     "full_name": "alibaba/formily",
-    "stargazers_count": 8901,
-    "open_issues_count": 6,
-    "forks_count": 1256
+    "stargazers_count": 8911,
+    "open_issues_count": 5,
+    "forks_count": 1258
   },
   {
     "full_name": "TanStack/table",
-    "stargazers_count": 20060,
-    "open_issues_count": 52,
+    "stargazers_count": 20088,
+    "open_issues_count": 53,
     "forks_count": 2666
   },
   {
     "full_name": "Sairyss/domain-driven-hexagon",
-    "stargazers_count": 7921,
+    "stargazers_count": 7946,
     "open_issues_count": 1,
-    "forks_count": 736
+    "forks_count": 741
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 30649,
-    "open_issues_count": 421,
-    "forks_count": 4451
+    "stargazers_count": 30681,
+    "open_issues_count": 422,
+    "forks_count": 4472
   },
   {
     "full_name": "TheAlgorithms/Dart",
-    "stargazers_count": 1132,
+    "stargazers_count": 1138,
     "open_issues_count": 30,
     "forks_count": 298
   },
   {
     "full_name": "bytebase/bytebase",
-    "stargazers_count": 4477,
-    "open_issues_count": 24,
-    "forks_count": 295
+    "stargazers_count": 4511,
+    "open_issues_count": 26,
+    "forks_count": 299
   },
   {
     "full_name": "Shopify/react-native-skia",
-    "stargazers_count": 4528,
+    "stargazers_count": 4538,
     "open_issues_count": 50,
-    "forks_count": 248
+    "forks_count": 249
   },
   {
     "full_name": "rebuy-de/aws-nuke",
-    "stargazers_count": 4012,
-    "open_issues_count": 157,
-    "forks_count": 522
+    "stargazers_count": 4022,
+    "open_issues_count": 155,
+    "forks_count": 524
   },
   {
     "full_name": "ardalis/DDD-NoDuplicates",
@@ -139,44 +169,14 @@
   },
   {
     "full_name": "grafana/k6",
-    "stargazers_count": 18808,
-    "open_issues_count": 385,
-    "forks_count": 984
+    "stargazers_count": 18860,
+    "open_issues_count": 386,
+    "forks_count": 988
   },
   {
     "full_name": "aidenybai/million",
-    "stargazers_count": 5433,
+    "stargazers_count": 5438,
     "open_issues_count": 12,
-    "forks_count": 151
-  },
-  {
-    "full_name": "redpanda-data/console",
-    "stargazers_count": 2872,
-    "open_issues_count": 107,
-    "forks_count": 260
-  },
-  {
-    "full_name": "runatlantis/atlantis",
-    "stargazers_count": 5568,
-    "open_issues_count": 419,
-    "forks_count": 804
-  },
-  {
-    "full_name": "microsoft/RulesEngine",
-    "stargazers_count": 2236,
-    "open_issues_count": 15,
-    "forks_count": 402
-  },
-  {
-    "full_name": "DapperLib/Dapper",
-    "stargazers_count": 15580,
-    "open_issues_count": 396,
-    "forks_count": 3575
-  },
-  {
-    "full_name": "rathena/rathena",
-    "stargazers_count": 2200,
-    "open_issues_count": 431,
-    "forks_count": 1924
+    "forks_count": 152
   }
 ]
