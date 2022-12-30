@@ -1,182 +1,182 @@
 [
   {
     "full_name": "asdf-vm/asdf",
-    "stargazers_count": 16364,
-    "open_issues_count": 134,
+    "stargazers_count": 16386,
+    "open_issues_count": 135,
     "forks_count": 626
   },
   {
     "full_name": "callstack/repack",
-    "stargazers_count": 941,
-    "open_issues_count": 56,
+    "stargazers_count": 943,
+    "open_issues_count": 46,
     "forks_count": 73
   },
   {
     "full_name": "frappe/erpnext",
-    "stargazers_count": 12420,
-    "open_issues_count": 1115,
-    "forks_count": 5038
+    "stargazers_count": 12458,
+    "open_issues_count": 1122,
+    "forks_count": 5037
   },
   {
     "full_name": "naptha/tesseract.js",
-    "stargazers_count": 29130,
+    "stargazers_count": 29159,
     "open_issues_count": 35,
-    "forks_count": 1957
+    "forks_count": 1958
   },
   {
     "full_name": "ultralytics/yolov5",
-    "stargazers_count": 33987,
-    "open_issues_count": 314,
-    "forks_count": 12328
+    "stargazers_count": 34045,
+    "open_issues_count": 318,
+    "forks_count": 12364
   },
   {
     "full_name": "usememos/memos",
-    "stargazers_count": 5059,
-    "open_issues_count": 51,
-    "forks_count": 294
+    "stargazers_count": 5135,
+    "open_issues_count": 53,
+    "forks_count": 297
   },
   {
     "full_name": "algorithm-visualizer/algorithm-visualizer",
-    "stargazers_count": 41945,
-    "open_issues_count": 48,
-    "forks_count": 6722
+    "stargazers_count": 41969,
+    "open_issues_count": 49,
+    "forks_count": 6724
   },
   {
     "full_name": "kettanaito/naming-cheatsheet",
-    "stargazers_count": 11100,
+    "stargazers_count": 11108,
     "open_issues_count": 22,
     "forks_count": 596
   },
   {
     "full_name": "RobotsAndPencils/xcodes",
-    "stargazers_count": 2322,
+    "stargazers_count": 2325,
     "open_issues_count": 51,
     "forks_count": 75
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 7640,
-    "open_issues_count": 115,
-    "forks_count": 292
+    "stargazers_count": 7658,
+    "open_issues_count": 116,
+    "forks_count": 294
   },
   {
     "full_name": "RustScan/RustScan",
-    "stargazers_count": 8665,
-    "open_issues_count": 110,
+    "stargazers_count": 8678,
+    "open_issues_count": 112,
     "forks_count": 646
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 34324,
+    "stargazers_count": 34356,
     "open_issues_count": 23,
-    "forks_count": 2949
+    "forks_count": 2951
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 38048,
-    "open_issues_count": 405,
-    "forks_count": 5873
+    "stargazers_count": 38242,
+    "open_issues_count": 408,
+    "forks_count": 5912
   },
   {
     "full_name": "lucide-icons/lucide",
-    "stargazers_count": 2995,
-    "open_issues_count": 54,
+    "stargazers_count": 2999,
+    "open_issues_count": 53,
     "forks_count": 160
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 5308,
-    "open_issues_count": 49,
-    "forks_count": 110
+    "stargazers_count": 5327,
+    "open_issues_count": 51,
+    "forks_count": 111
   },
   {
     "full_name": "lightdash/lightdash",
-    "stargazers_count": 1943,
-    "open_issues_count": 450,
-    "forks_count": 137
+    "stargazers_count": 1963,
+    "open_issues_count": 452,
+    "forks_count": 138
   },
   {
     "full_name": "expo/router",
-    "stargazers_count": 570,
-    "open_issues_count": 23,
-    "forks_count": 28
+    "stargazers_count": 580,
+    "open_issues_count": 25,
+    "forks_count": 29
   },
   {
     "full_name": "electricitymaps/electricitymaps-contrib",
-    "stargazers_count": 2665,
-    "open_issues_count": 191,
-    "forks_count": 759
+    "stargazers_count": 2670,
+    "open_issues_count": 194,
+    "forks_count": 760
   },
   {
     "full_name": "TanvirArjel/EFCore.GenericRepository",
     "stargazers_count": 349,
     "open_issues_count": 2,
-    "forks_count": 53
+    "forks_count": 54
   },
   {
     "full_name": "rayepps/radash",
-    "stargazers_count": 1871,
-    "open_issues_count": 15,
+    "stargazers_count": 1876,
+    "open_issues_count": 12,
     "forks_count": 64
   },
   {
     "full_name": "alibaba/formily",
-    "stargazers_count": 8949,
-    "open_issues_count": 3,
+    "stargazers_count": 8956,
+    "open_issues_count": 4,
     "forks_count": 1264
   },
   {
     "full_name": "TanStack/table",
-    "stargazers_count": 20205,
-    "open_issues_count": 57,
+    "stargazers_count": 20240,
+    "open_issues_count": 59,
     "forks_count": 2680
   },
   {
     "full_name": "Sairyss/domain-driven-hexagon",
-    "stargazers_count": 7993,
+    "stargazers_count": 8022,
     "open_issues_count": 2,
-    "forks_count": 749
+    "forks_count": 755
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 30813,
-    "open_issues_count": 393,
-    "forks_count": 4512
+    "stargazers_count": 30830,
+    "open_issues_count": 401,
+    "forks_count": 4525
   },
   {
     "full_name": "TheAlgorithms/Dart",
-    "stargazers_count": 1159,
+    "stargazers_count": 1163,
     "open_issues_count": 30,
     "forks_count": 299
   },
   {
     "full_name": "bytebase/bytebase",
-    "stargazers_count": 4577,
-    "open_issues_count": 27,
+    "stargazers_count": 4589,
+    "open_issues_count": 25,
     "forks_count": 304
   },
   {
     "full_name": "Shopify/react-native-skia",
-    "stargazers_count": 4576,
-    "open_issues_count": 50,
-    "forks_count": 254
+    "stargazers_count": 4586,
+    "open_issues_count": 55,
+    "forks_count": 257
   },
   {
     "full_name": "rebuy-de/aws-nuke",
-    "stargazers_count": 4067,
-    "open_issues_count": 159,
-    "forks_count": 528
+    "stargazers_count": 4075,
+    "open_issues_count": 161,
+    "forks_count": 529
   },
   {
     "full_name": "ardalis/DDD-NoDuplicates",
-    "stargazers_count": 382,
+    "stargazers_count": 384,
     "open_issues_count": 4,
     "forks_count": 38
   },
   {
     "full_name": "grafana/k6",
-    "stargazers_count": 18964,
-    "open_issues_count": 390,
+    "stargazers_count": 18980,
+    "open_issues_count": 391,
     "forks_count": 993
   }
 ]
