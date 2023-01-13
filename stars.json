@@ -1,177 +1,177 @@
 [
   {
     "full_name": "AuroraEditor/AuroraEditor",
-    "stargazers_count": 746,
-    "open_issues_count": 31,
+    "stargazers_count": 707,
+    "open_issues_count": 32,
     "forks_count": 33
   },
   {
     "full_name": "asdf-vm/asdf",
-    "stargazers_count": 16463,
-    "open_issues_count": 127,
+    "stargazers_count": 16476,
+    "open_issues_count": 125,
     "forks_count": 630
   },
   {
     "full_name": "callstack/repack",
-    "stargazers_count": 952,
+    "stargazers_count": 956,
     "open_issues_count": 49,
-    "forks_count": 74
+    "forks_count": 77
   },
   {
     "full_name": "frappe/erpnext",
-    "stargazers_count": 12527,
-    "open_issues_count": 1119,
-    "forks_count": 5067
+    "stargazers_count": 12545,
+    "open_issues_count": 1116,
+    "forks_count": 5082
   },
   {
     "full_name": "naptha/tesseract.js",
-    "stargazers_count": 29236,
-    "open_issues_count": 38,
-    "forks_count": 1957
+    "stargazers_count": 29265,
+    "open_issues_count": 37,
+    "forks_count": 1960
   },
   {
     "full_name": "ultralytics/yolov5",
-    "stargazers_count": 34309,
-    "open_issues_count": 318,
-    "forks_count": 12466
+    "stargazers_count": 34517,
+    "open_issues_count": 317,
+    "forks_count": 12494
   },
   {
     "full_name": "usememos/memos",
-    "stargazers_count": 5366,
+    "stargazers_count": 5409,
     "open_issues_count": 65,
-    "forks_count": 310
+    "forks_count": 309
   },
   {
     "full_name": "algorithm-visualizer/algorithm-visualizer",
-    "stargazers_count": 42026,
+    "stargazers_count": 42038,
     "open_issues_count": 50,
-    "forks_count": 6721
+    "forks_count": 6725
   },
   {
     "full_name": "kettanaito/naming-cheatsheet",
-    "stargazers_count": 11148,
+    "stargazers_count": 11161,
     "open_issues_count": 22,
     "forks_count": 597
   },
   {
     "full_name": "RobotsAndPencils/xcodes",
-    "stargazers_count": 2332,
-    "open_issues_count": 56,
+    "stargazers_count": 2339,
+    "open_issues_count": 57,
     "forks_count": 77
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 7732,
-    "open_issues_count": 115,
-    "forks_count": 296
+    "stargazers_count": 7802,
+    "open_issues_count": 111,
+    "forks_count": 297
   },
   {
     "full_name": "RustScan/RustScan",
-    "stargazers_count": 8806,
+    "stargazers_count": 8835,
     "open_issues_count": 112,
     "forks_count": 652
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 34479,
+    "stargazers_count": 34539,
     "open_issues_count": 21,
-    "forks_count": 2960
+    "forks_count": 2962
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 38902,
-    "open_issues_count": 416,
-    "forks_count": 6043
+    "stargazers_count": 39095,
+    "open_issues_count": 421,
+    "forks_count": 6085
   },
   {
     "full_name": "lucide-icons/lucide",
-    "stargazers_count": 3048,
+    "stargazers_count": 3069,
     "open_issues_count": 55,
-    "forks_count": 167
+    "forks_count": 169
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 5544,
+    "stargazers_count": 5648,
     "open_issues_count": 49,
     "forks_count": 115
   },
   {
     "full_name": "lightdash/lightdash",
-    "stargazers_count": 1990,
-    "open_issues_count": 466,
-    "forks_count": 144
+    "stargazers_count": 2003,
+    "open_issues_count": 467,
+    "forks_count": 146
   },
   {
     "full_name": "expo/router",
-    "stargazers_count": 599,
+    "stargazers_count": 604,
     "open_issues_count": 21,
     "forks_count": 31
   },
   {
     "full_name": "electricitymaps/electricitymaps-contrib",
-    "stargazers_count": 2684,
-    "open_issues_count": 186,
+    "stargazers_count": 2688,
+    "open_issues_count": 187,
     "forks_count": 760
   },
   {
     "full_name": "TanvirArjel/EFCore.GenericRepository",
-    "stargazers_count": 352,
+    "stargazers_count": 353,
     "open_issues_count": 2,
-    "forks_count": 54
+    "forks_count": 55
   },
   {
     "full_name": "rayepps/radash",
-    "stargazers_count": 1891,
-    "open_issues_count": 15,
-    "forks_count": 66
+    "stargazers_count": 1896,
+    "open_issues_count": 14,
+    "forks_count": 67
   },
   {
     "full_name": "alibaba/formily",
-    "stargazers_count": 9004,
-    "open_issues_count": 6,
-    "forks_count": 1266
+    "stargazers_count": 9016,
+    "open_issues_count": 7,
+    "forks_count": 1268
   },
   {
     "full_name": "TanStack/table",
-    "stargazers_count": 20337,
-    "open_issues_count": 57,
-    "forks_count": 2681
+    "stargazers_count": 20372,
+    "open_issues_count": 59,
+    "forks_count": 2682
   },
   {
     "full_name": "Sairyss/domain-driven-hexagon",
-    "stargazers_count": 8089,
+    "stargazers_count": 8118,
     "open_issues_count": 2,
-    "forks_count": 760
+    "forks_count": 761
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 30940,
-    "open_issues_count": 399,
-    "forks_count": 4553
+    "stargazers_count": 30980,
+    "open_issues_count": 408,
+    "forks_count": 4564
   },
   {
     "full_name": "TheAlgorithms/Dart",
-    "stargazers_count": 1176,
-    "open_issues_count": 31,
-    "forks_count": 302
+    "stargazers_count": 1177,
+    "open_issues_count": 30,
+    "forks_count": 304
   },
   {
     "full_name": "bytebase/bytebase",
-    "stargazers_count": 4640,
-    "open_issues_count": 28,
-    "forks_count": 305
+    "stargazers_count": 4657,
+    "open_issues_count": 24,
+    "forks_count": 308
   },
   {
     "full_name": "Shopify/react-native-skia",
-    "stargazers_count": 4671,
-    "open_issues_count": 57,
-    "forks_count": 259
+    "stargazers_count": 4686,
+    "open_issues_count": 59,
+    "forks_count": 260
   },
   {
     "full_name": "rebuy-de/aws-nuke",
-    "stargazers_count": 4107,
+    "stargazers_count": 4116,
     "open_issues_count": 166,
-    "forks_count": 535
+    "forks_count": 540
   },
   {
     "full_name": "ardalis/DDD-NoDuplicates",
